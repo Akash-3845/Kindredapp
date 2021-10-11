@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kindred Assignment</string>
+    <string name="todo">TODO</string>
+    <string name="screenPlay">screenPlay</string>
+    <string name="circle">circle</string>
+    <string name="square">Square</string>
+
+
+</resources>
